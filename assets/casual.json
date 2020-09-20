@@ -1,0 +1,68 @@
+[
+    {
+        "1": "You are almost never late for your appointments.",
+        "2": "You like to take up responsibilities more often.",
+        "3": "You like to be engaged in an active fast-paced job.",
+        "4": "You trust reasons rather than feelings.",
+        "5": "Your actions are frequently influenced by your emotions.",
+        "6": "You have a great capability of convincing people.",
+        "7": "You never believe in procrastinating things.",
+        "8": "You proceed to complete tasks in a defined time rather than delays and postponements.",
+        "9": "You prefer reading real stories than fiction.",
+        "10": "You have good control over the desires and temptations."
+    },
+    {
+        "1": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "2": {
+           "a": "YES",
+            "b": "NO"
+        },
+        "3": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "4": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "5": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "6": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "7": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "8": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "9": {
+           "a": "YES",
+            "b": "NO"
+        },
+        "10": {
+            "a": "YES",
+            "b": "NO"
+        }
+    },
+    {
+        "1": "NO",
+        "2": "NO",
+        "3": "NO",
+        "4": "NO",
+        "5": "NO",
+        "6": "NO",
+        "7": "NO",
+        "8": "NO",
+        "9": "NO",
+        "10": "NO"
+    }
+]

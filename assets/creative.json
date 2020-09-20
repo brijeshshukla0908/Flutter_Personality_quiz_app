@@ -1,0 +1,68 @@
+[
+    {
+        "1": "Your favorite subject at school.",
+        "2": "How would you describe yourself?",
+        "3": "Algebra or Geometry?",
+        "4": "You prefer...",
+        "5": "Art Museum or Planetarium? ",
+        "6": "At a restaurant, how do you calculate the tip?",
+        "7": "Would you rather create or invent?",
+        "8": "How do you feel about giving speeches?",
+        "9": "You would rather....",
+        "10": "Which would you rather do with your friends?"
+    },
+    {
+        "1": {
+            "a": "Literature",
+            "b": "Maths"
+        },
+        "2": {
+           "a": "Open-minded",
+            "b": "Practical"
+        },
+        "3": {
+            "a": "Algebra",
+            "b": "Geometry"
+        },
+        "4": {
+            "a": "Chess",
+            "b": "Origami"
+        },
+        "5": {
+            "a": "Art museum",
+            "b": "Planetarium"
+        },
+        "6": {
+            "a": "Math in my head",
+            "b": "Use Calculator"
+        },
+        "7": {
+            "a": "Create",
+            "b": "Invent"
+        },
+        "8": {
+            "a": "Cool! Sounds fun",
+            "b": "As long as i am prepared its Alright"
+        },
+        "9": {
+           "a": "Build your own app",
+            "b": "Make your own clothes"
+        },
+        "10": {
+            "a": "Have a picnic",
+            "b": "Attend a workshop"
+        }
+    },
+    {
+        "1": "Literature",
+        "2": "Open-minded",
+        "3": "Geometry",
+        "4": "Origami",
+        "5": "Art museum",
+        "6": "Use Calculator",
+        "7": "Create",
+        "8": "Cool! Sounds fun",
+        "9": "Make your own clothes",
+        "10": "Have a picnic"
+    }
+]

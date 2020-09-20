@@ -1,0 +1,68 @@
+[
+    {
+        "1": "You enjoy vibrant social events with lots of people.",
+        "2": "People can rarely upset you.",
+        "3": "You always prefer initiating conversation and keep it going.",
+        "4": "You have _____ approach towards life.",
+        "5": "You can jump into a conversation of unknown people.",
+        "6": "You rarely try to introduce yourself to a social event.",
+        "7": "You often decide on a whim.",
+        "8": "The time you spend by yourself often ends up being ______ than the time you spend with others.",
+        "9": "In public places, you usually stick to ______ crowded areas.",
+        "10": "You often talk about your own emotions and feelings."
+    },
+    {
+        "1": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "2": {
+           "a": "YES",
+            "b": "NO"
+        },
+        "3": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "4": {
+            "a": "CAUTIOUS",
+            "b": "CARE FREE"
+        },
+        "5": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "6": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "7": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "8": {
+            "a": "INTERESTING",
+            "b": "BORING"
+        },
+        "9": {
+            "a": "LESS",
+            "b": "MORE"
+        },
+        "10": {
+           "a": "YES",
+            "b": "NO"
+        }
+    },
+    {
+        "1": "NO",
+        "2": "YES",
+        "3": "NO",
+        "4": "CAUTIOUS",
+        "5": "NO",
+        "6": "YES",
+        "7": "NO",
+        "8": "INTERESTING",
+        "9": "LESS",
+        "10": "NO"
+    }
+]
